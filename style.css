@@ -30,6 +30,7 @@ body
 fieldset , header
 {
     background-color: white;
+    border: none;
 }
 table, tr, td
 {
@@ -37,8 +38,8 @@ table, tr, td
     border-collapse: collapse;
     padding-top: 14px;
     padding-bottom: 14px;
-    padding-left: 23px;
-    padding-right: 23px;
+    padding-left: 24px;
+    padding-right: 24px;
 }
 .lienhaut
 {
@@ -53,14 +54,14 @@ table, tr, td
     position: absolute;
     left: 22%;
     top: 8%;
-    width: 72.1%;
+    width: 72.3%;
 }
 .basicdemo
 {
     position: absolute;
     left: 22%;
     top: 20%;
-    width: 72.1%;
+    width: 72.3%;
     padding-bottom: 0%;
 }
 .basicdemo h1
