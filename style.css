@@ -1,0 +1,65 @@
+nav
+{
+    position: absolute;
+    text-align: left;
+    white-space: pre-line;
+    padding-left: 5%;
+    background-color: darkblue;
+    color: white;
+    width: 22%;
+    top: 0%;
+    left: 0%;
+}
+header
+{
+    position: absolute;
+    left: 27%;
+    top: 0%;
+    width: 70%;
+    height: 10%;
+}
+header ul li
+{
+    list-style: none;
+    display: inline;
+}   
+body
+{
+    background-color: lightgrey;
+}
+fieldset , header
+{
+    background-color: white;
+}
+.basicdemo
+{
+    position: absolute;
+    
+}
+.lienhaut
+{
+    color:white ;
+}
+.lienbas
+{
+    color: black;
+}
+.disclaimer
+{
+    position: absolute;
+    left: 32%;
+    top: 16%;
+}
+.tableau
+{
+    position: absolute;
+    left: 32%;
+    top: 27%;
+}
+.basdepage
+{
+    position: absolute;
+    left: 32%;
+    top: 100%;
+    width: 64.5%;
+}
